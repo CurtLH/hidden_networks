@@ -1,5 +1,5 @@
 # Hidden Networks
-Identifying hidden relationships between classified ads. Data collected via [`frontPage`](https://github/com/CurtLH/frontPage)
+Identifying hidden relationships between classified ads. Data collected via [`frontPage`](https://github.com/CurtLH/frontPage)
 
 - [**Connecting to the Database:**](https://github.com/CurtLH/hidden_networks/blob/master/1_connecting_to_database_using_pandas.ipynb)
 Example of connecting to a Postgres database using `pandas`.
